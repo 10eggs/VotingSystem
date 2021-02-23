@@ -1,0 +1,9 @@
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\VotingSystem\bin\Debug\netstandard2.0\VotingSystem.deps.json
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\VotingSystem\bin\Debug\netstandard2.0\VotingSystem.dll
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\VotingSystem\bin\Debug\netstandard2.0\VotingSystem.pdb
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\VotingSystem\obj\Debug\netstandard2.0\VotingSystem.csprojAssemblyReference.cache
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\VotingSystem\obj\Debug\netstandard2.0\VotingSystem.AssemblyInfoInputs.cache
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\VotingSystem\obj\Debug\netstandard2.0\VotingSystem.AssemblyInfo.cs
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\VotingSystem\obj\Debug\netstandard2.0\VotingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\VotingSystem\obj\Debug\netstandard2.0\VotingSystem.dll
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\VotingSystem\obj\Debug\netstandard2.0\VotingSystem.pdb

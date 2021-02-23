@@ -1,0 +1,40 @@
+﻿@page "{id?}"
+@model VotingSystem.Ui.Pages.IndexModel
+@{
+}
+
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h1>Razor index page</h1>
+<h1>@Model.Id</h1>
+
+@foreach (var poll in Model.VotingPolls)
+{
+    <a asp-page="/Poll" asp-route-id="@poll.Id">@poll.Title</a>
+}
+
+<form method="post">
+    @*@Html.AntiForgeryToken()*@
+    <label>Title</label>
+    <input asp-for="Form.Title" /><br />
+    <label>Description</label>
+    <input asp-for="Form.Description" /><br />
+    <label>Name1</label>
+    <input asp-for="Form.Names[0]" /><br />
+    <label>Name2</label>
+    <input asp-for="Form.Names[1]" /><br />
+    <label>Name3</label>
+    <input asp-for="Form.Names[2]" /><br />
+    <button type="submit">Submit</button>
+</form>
+
+@*@if (Model.Poll != null)
+{
+    <h1>Poll</h1>
+    <h2>@Model.Poll.Title</h2>
+    <h2>@Model.Poll.Description</h2>
+    foreach(var counter in Model.Poll.Counters)
+    {
+        <p>@counter.Name</p>
+    }
+}*@

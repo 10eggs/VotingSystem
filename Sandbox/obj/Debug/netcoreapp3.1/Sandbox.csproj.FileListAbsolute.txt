@@ -1,0 +1,13 @@
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.exe
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.deps.json
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.runtimeconfig.json
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.runtimeconfig.dev.json
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.dll
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\Sandbox\bin\Debug\netcoreapp3.1\Sandbox.pdb
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.csprojAssemblyReference.cache
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.AssemblyInfoInputs.cache
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.AssemblyInfo.cs
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.dll
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.pdb
+C:\Users\Tomasz.Pawlak\source\repos\VotingSystem\Sandbox\obj\Debug\netcoreapp3.1\Sandbox.genruntimeconfig.cache

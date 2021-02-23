@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ymxsr7ZdZ+E/x4hK+S3jOEOUNw67Joz1jC8FUdQr4yMIc3XV7TvHSFJSPfOcRu96NApCYWcqQjdjeZjkg59ozA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tomasz.Pawlak\\source\\repos\\VotingSystem\\VotingSystem.Application\\VotingSystem.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomasz.Pawlak\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tomasz.Pawlak\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
